@@ -17,10 +17,6 @@
   },
   "license": "MIT",
   "author": "Zhenghui Su",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:zhenghui-su/acvil-tiptap-react.git"
-  },
   "files": [
     "dist",
     "README.md",
