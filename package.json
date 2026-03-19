@@ -19,7 +19,7 @@
   "author": "Zhenghui Su",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhenghui-su/acvil-tiptap-react.git"
+    "url": "git@github.com:zhenghui-su/acvil-tiptap-react.git"
   },
   "files": [
     "dist",
